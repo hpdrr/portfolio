@@ -1055,3 +1055,4 @@ node_modules/yaml/types/omap.js
 node_modules/yaml/types/pairs.js
 node_modules/yaml/types/set.js
 node_modules/yaml/types/timestamp.js
+.hintrc

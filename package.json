@@ -1,0 +1,23 @@
+{
+  "name": "me-tailwind",
+  "version": "1.0.0",
+  "description": "website portofolio mengguanakan tailwind",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i src/input.css -o dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hapidr/me-tailwind.git"
+  },
+  "author": "Hapidr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hapidr/me-tailwind/issues"
+  },
+  "homepage": "https://github.com/Hapidr/me-tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}

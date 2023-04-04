@@ -33,3 +33,13 @@ html {
 .hamburger-active > span:nth-child(3) {
   @apply -rotate-45;
 }
+
+.line-1 {
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}

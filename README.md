@@ -2,4 +2,4 @@
 
 website pribadi menggunakan tailwindcss
 
-##### Visit at https://hapidr.github.io/portfolio/
+##### Visit at https://hpdrr.github.io/portfolio/
